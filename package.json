@@ -1,0 +1,19 @@
+{
+  "name": "com.seninadin.aicommandcenter",
+  "version": "1.0.0",
+  "displayName": "AI Command Center Pro",
+  "description": "Unity Editor icinde ChatGPT ve Gemini kullanarak kod yazdiran ve editor gorevlerini otomatize eden arac.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Senin Adın",
+    "url": "https://github.com/seninkullaniciadin"
+  },
+  "category": "Editor Extensions",
+  "keywords": [
+    "ai",
+    "editor",
+    "automation",
+    "chatgpt",
+    "gemini"
+  ]
+}
